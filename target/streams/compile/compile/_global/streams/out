@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /mnt/c/Users/yazan/Downloads/B2 uppgifetr/App.scala:53:116 -----------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m53 |[0m                        [33mif[0m Calculate.totMap.keys.toVector.contains(kap) [33mthen[0m {println([31ms"Du har valt kap.: [0m$kap[31m + "[0m\[31mn[0m"); Calculate.chapterLoop(Calculate.totMap(kap))}[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                                                                    [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                 unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E040] Syntax Error: /mnt/c/Users/yazan/Downloads/B2 uppgifetr/App.scala:69:9 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m69 |[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m   |         [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |         '}' expected, but eof found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /mnt/c/Users/yazan/Downloads/B2 uppgifetr/App.scala:53:114 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m53 |[0m                        [33mif[0m Calculate.totMap.keys.toVector.contains(kap) [33mthen[0m {println([31ms"Du har valt kap.: [0m$kap[31m + "[0m\[31mn[0m"); Calculate.chapterLoop(Calculate.totMap(kap))}[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                                      [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                       value \ is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

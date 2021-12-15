@@ -1,0 +1,109 @@
+1).Definiera följande tre beteckningar: |z|, z̄ och arg z, där z är ett komplext tal.
+
+2).Hur tolkas följande operationer i det komplexa talplanet:¨ a) att ta absolutbelopp av z. b) att konjugera z. c) att addera w till z. d) att multiplicera z med w?
+
+3).Skriv upp och bevisa formler för zw och |zw|.
+
+4).Formulera triangelolikheten.
+
+5).Hur skriver man kvoten mellan två komplexa tal på rektangulär form?
+
+6).Definiera beteckningarna eiy och ex+iy , där x och y är reella tal.
+
+7).Hur gör du för att skriva ett komplext tal a + ib på polär form?
+
+8).Hur gör du för att skriva talet reiθ , där r > 0 och θ ∈ R, på rektangulär form a + ib?
+
+9).Skriv upp och härled Eulers formler.
+
+10).Visa att ei(x+y) = eix eiy för alla reella tal x och y. Vad säger de Moivres formel?
+
+11).Hur löser du en andragradsekvation med komplexa koefficienter?
+
+12).Ange två metoder för att lösa andragradsekvationen z 2 = w, där w är ett givet komplext tal.
+
+13).Hur löser du ekvationen z n = w, där w är ett givet komplext tal?
+
+14).Vad säger algebrans fundamentalsats? Visa att varje komplext polynom kan faktoriseras i (komplexa) förstagradsfaktorer.
+
+15).Antag att polynomet p(x) har reella koefficienter. Visa att om p(α) = 0 så är även p(ᾱ) = 0.
+
+16).Visa att att varje reellt polynom kan faktoriseras i reella faktorer av högst graden två.
+
+17).Definiera derivatan av en komplexvärd funktion.
+
+18).Härled derivatan av f(x) = e^(wx) , där w är ett komplext tal.
+
+19).Skriv upp Maclaurins formel med Lagranges restterm.
+
+20).För vilka x är Maclaurinpolynomet pn(x) en god approximation av f(x)? Varför vill man approximera med polynom?
+
+21).Hur avgör man hur noggrann approximationen i föregående fråga är? (koll fråga 20 i häftet)
+
+22).Skriv upp Taylors formel (utveckling kring x = a) med Lagranges restterm.
+
+23).Skriv upp standardutvecklingarna (11,5)–(11,10) i läroboken.
+
+24).Visa med Maclaurinutveckling: (kolla formel i häftet)
+
+25).Vad menas med uttrycket ”F är en primitiv funktion till f i intervallet I”?
+
+26).Bevisa att om F och G är primitiver till samma funktion f , så är G(x) = F(x) + C, där C är en konstant.
+
+27).Lär dig de ”elementära primitiva funktionerna” på sida 281 i boken.
+
+28).Skriv upp och bevisa formeln för partialintegration. Ange även ett exempel där det är lämpligt att använda partialintegration.
+
+29).Hur utför man variabelbyte när man bestämmer en primitiv funktion? Vilken deriveringsregel ligger bakom?
+
+30).Beskriv ansatsprinciperna vid partialbråksuppdelning samt hur man bestämmer ansatskoefficienterna.
+
+31).Vad är en Riemannsumma till en kontinuerlig funktion f i intervallet [a, b]? Förklara ingående beteckningar med hjälp av en figur. Vad händer då indelningen förfinas?
+
+32).Lär dig räknelagarna för integraler (13,8)–(13,11) i läroboken.
+
+33).Formulera triangelolikheten för integraler. Troliggör med en skiss.
+
+34).Formulera integralkalkylens medelvärdessats och förklara den med hjälp av en figur.
+
+35).Formulera och bevisa analysens huvudsats med hjälp av integralkalkylens medelvärdessats.
+
+36).Använd huvudsatsen för att bevisa insättningsformeln. (kolla i häftet)
+
+37).Vad menas med uttrycket ”den generaliserade integralen f(x)dx är konvergrent". (kolla i häftet)
+
+38).På vilka sätt kan integraler vara generaliserade? Hur beräknar man dem (om de är konvergenta)?
+
+39).(kolla i häftet)
+
+40).(kolla i häftet)
+
+41).(kolla i häftet)
+
+42).Hur beräknar man arean av området mellan två funktionskurvor?
+
+43).Förklara den så kallade skivformeln för volymen av en kropp.
+
+44).Då grafen y = f (x), a ≤ x ≤ b, roterar kring x-axeln uppstår en rotationsyta, som tillsamans med avgränsningar vid x = a och x = b bildar en rotationskropp. Förklara hur man kan få fram formler för rotationsytans area samt rotationskroppens volym.
+
+45).Kontrollera att du i tyngdpunktsberäkningar förstår hur symboliska integraler ska översättas till vanliga integraler. Vad betyder x och dm? 
+
+46).Ange formeln för längden av en kurva i planet som ges på parameterform. Hur ser formeln ut i specialfallet då kurvan är grafen till en funktion f ?
+
+47).Vad menas med en lösning till en differentialekvation? Visa att y = e^(x^2) är en lösning till "y'' − 2xy' - 2y = 0".
+
+48).Hur löser man en differentialekvation av formen a)"y' + g(x)y = h(x)"? b)"g(y)y' = h(x)"?
+
+49).Visa att den allmänna lösningen till differentialekvationen "y'= ay" är "y = C*e^(ax)" .
+
+50).Hur löser du integralekvationen? (kolla i häftet)
+
+51).Vad betyder yh respektive yp i framställningen y = yh + yp av lösningarna till en differentialekvation av formen "y'' + a(x)y' + b(x)y = g(x)".
+
+52).Ange yh i föregående uppgift om a och b är konstanter. Vilka olika fall måste särskiljas? (kolla fråga 51)
+
+53).Ange alla yh i föregående uppgift på reell form om a och b är reella konstanter. (kolla frågor 52 och 51)
+
+54).(kolla i häftet)
+
+56).Vad menas med resonans och när kan resonans uppträda?

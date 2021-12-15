@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/b2-uppgifetr_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/App.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/App.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Calculate$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Calculate.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Calculate.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Calculate.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Theory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Theory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Theory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Theory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tentaBot/Theory.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/yazan/Downloads/B2 uppgifetr/target/scala-3.1.0/classes/tentaBot/Theory.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
